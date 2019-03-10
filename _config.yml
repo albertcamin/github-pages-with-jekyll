@@ -1,14 +1,17 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+#<EL TIEMPO DE UNA NACION PARA SER O NO SER>
+##<Por: ALBERT CAMIN>
+####<email:malon2001@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  ####<__SOMOS POCOS CON UNA ESPERANZA PARA MUCHOS, UNA LUCHA SIN CUARTEL POR DAR CON LA VERDADARA IDENTIDAD DE UN PROYECTO DE NACION 
+  QUE CLAMA AL TIEMPO POR SU REALIZACION, SO PENA DE SUCUMBIR EN LA DESUNION, LA CONTINUA DEGRADACION Y LA PERDIDA NO SOLO DE UNA OPORTUNIDAD
+  HISTORICA, SINO DE TODA OCASION DE SER ALGO MAS QUE UN LAMENTO POR LO NO SIDO NI LOGRADO, NI REALIZADO...LOS INVITAMOS DSEDE SUS LUGARES 
+  APOYAR ESTA PROPUESTA, DONDE LO CREATIVO SE UNE A LOS MAS ALTO IDEALES DE LOS PADRES DE NUESTRA PATRIA, LOS QUE SUPIERON CORRER TRAS 
+  UN IDEAL, QUE HOY, SI HOY, ESTA MAS LEJANO QUE EN AQUELLOS TIERNAS GENERACIONES... Y TODO ELLO, CUANTO TIEMPO DESPUES? DOS SIGLOS? DOS SIGLOS
+  DE DESACIERTOS? SEGURAMENTE QUE NO, DOS SIGLOS DE APRENDIZAJE ES LO QUE NOS PROPONEMOS DEMOSTRAR Y DESARROLLAR CON USTEDES, QUERIDOS 
+  COMPATRIOTAS, BUSCADORES DE LA VERDAD, EL HONOR Y LA REALIZACION AUTENTICA DEL SER NACIONAL.__>
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+github_username:  albertcamin
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
